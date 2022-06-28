@@ -1,4 +1,4 @@
-# flutter_app
+# stoa
 
 A new Flutter project.
 
